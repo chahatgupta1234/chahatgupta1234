@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<GITHUB_USENAME>
+https://gssoc.girlscript.tech/leaderboard?year=2024&username=chahatgupta1234
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
